@@ -1,0 +1,8 @@
+Origin: theBinary
+Label: https://thebinary.github.io/
+Suite: stable
+Version: 1.0
+Codename: iphone
+Architectures: iphoneos-arm
+Components: main
+Description: Cydia Repository by 'thebinary'
